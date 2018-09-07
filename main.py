@@ -12,3 +12,5 @@ for i in range(300):
 
 for i in range(10)
     print(i)
+
+print("nigga")
