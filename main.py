@@ -14,3 +14,5 @@ for i in range(10)
     print(i)
 
 print("nigga")
+
+print ("blien %s" % ("i realy do hate niggas"))
